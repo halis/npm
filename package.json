@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "./src/lib.js",
+  "scripts": {
+    "test": "clear && mocha \"test/**/*.js\" --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com//issues"
+  },
+  "homepage": "https://github.com/#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "keywords": [
+    
+  ]
+}
